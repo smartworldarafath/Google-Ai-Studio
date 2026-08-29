@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio",
+  "description": "Native Android WebView wrapper for Google AI Studio Apps with auto-updates and persistent Google authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
