@@ -143,8 +143,6 @@ If you find **Google Ai Studio** helpful and want to support ongoing development
 
 ---
 
-## ☕ Support / Buy Me a Coffee & Become a Sponsor
-
 <div align="center">
 
 <a href="SUPPORT.md" target="_blank">
